@@ -1,0 +1,1 @@
+Example game logic using pure functional programming in Erlang
